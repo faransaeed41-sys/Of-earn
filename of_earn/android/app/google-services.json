@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645076474959",
+    "project_id": "my-first-app-12490",
+    "storage_bucket": "my-first-app-12490.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645076474959:android:a61f8e1cb8351903351e3a",
+        "android_client_info": {
+          "package_name": "com.onlyfan.of_earn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSn6_wSOKXXMnnoGD-TAmA_oV2J2jhe6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
